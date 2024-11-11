@@ -1,1 +1,1 @@
-# poc-consumer-1
+# poc-app-1
